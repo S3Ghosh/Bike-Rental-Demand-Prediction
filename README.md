@@ -1,1 +1,1 @@
-# BikeSharing-CaseStudy
+# Bike-Rental-Case-Study
